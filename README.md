@@ -5,9 +5,13 @@ This project details the steps I followed to learn about Amazon QuickSight and e
 ## Key Learnings
 
 Storing Data in S3: Uploading data to an S3 bucket allows QuickSight to access and process it.
+
 Manifest.json: This file provides metadata about the data in the CSV file, including structure and organization.
+
 Connecting S3 to QuickSight: The manifest.json file acts as a bridge between the S3 bucket and QuickSight, enabling data connection.
+
 Data Visualization: QuickSight offers various chart types (donut, bar charts, etc.) to explore and understand data.
+
 Adding Filters: Filters allow you to focus on specific data subsets within your visualizations.
 
 ## Step-by-Step Guide
@@ -15,19 +19,31 @@ Adding Filters: Filters allow you to focus on specific data subsets within your 
 This section provides a high-level overview of the steps covered in the project.
 
 Downloaded the netflix_titles.csv and manifest.json datasets.
+
 Created an S3 bucket and uploaded the data files. Edited the manifest.json file with the S3 bucket URL.
+
 Signed up for a free trial of Amazon QuickSight and connected the S3 bucket containing the datasets.
+
 Created the first visualizations - a donut chart showing release year distribution and a horizontal bar chart comparing release year with content type (movie/TV show).
+
 Explored further using filters to answer questions provided by a data team lead:
+
 Stacked bar chart visualizing the percentage of movies vs TV shows per release year.
+
 Table showing the number of movies vs TV shows per release year.
+
 Identifying the day with the most significant number of movies/TV shows added to the Netflix catalog.
+
 Counting TV shows and movies categorized as "Action & Adventure", "TV Comedies", or "Thrillers".
+
 Counting TV shows and movies with "Action & Adventure", "TV Comedies", or "Thrillers" categories released in 2015 or later.
+
 Added titles to the charts for better understanding.
+
 Published and exported the dashboard as a PDF.
 
 ## Next Steps
 
 Explore more advanced data manipulation and visualization techniques in Amazon QuickSight.
+
 Integrate findings from this project with other data sources for richer insights.
