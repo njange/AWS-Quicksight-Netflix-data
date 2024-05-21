@@ -41,6 +41,7 @@ Identifying the day with the most significant number of movies/TV shows added to
 Counting TV shows and movies categorized as "Action & Adventure", "TV Comedies", or "Thrillers".
 
 Counting TV shows and movies with "Action & Adventure", "TV Comedies", or "Thrillers" categories released in 2015 or later.
+![Uploading Complete Quicksight Dashboard.png…]()
 
 Added titles to the charts for better understanding.
 
