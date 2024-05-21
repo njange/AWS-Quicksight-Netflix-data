@@ -21,10 +21,14 @@ This section provides a high-level overview of the steps covered in the project.
 Downloaded the netflix_titles.csv and manifest.json datasets.
 
 Created an S3 bucket and uploaded the data files. Edited the manifest.json file with the S3 bucket URL.
+![S3](https://github.com/njange/AWS-Quicksight-Netflix-data/assets/128843179/9023ca36-b478-44bb-a968-54197a22f50c)
+
 
 Signed up for a free trial of Amazon QuickSight and connected the S3 bucket containing the datasets.
 
 Created the first visualizations - a donut chart showing release year distribution and a horizontal bar chart comparing release year with content type (movie/TV show).
+![Quicksight](https://github.com/njange/AWS-Quicksight-Netflix-data/assets/128843179/525afc62-e5f6-4ef0-a308-02522c2d4f43)
+
 
 Explored further using filters to answer questions provided by a data team lead:
 
