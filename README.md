@@ -1,6 +1,6 @@
 ## Amazon QuickSight Project - README
 
-This project details the steps I followed to learn about Amazon QuickSight and explore the netflix_titles.csv dataset. The findings are documented in a Canva presentation [Link to your Canva presentation].
+# This project details the steps I followed to learn about Amazon QuickSight and explore the netflix_titles.csv dataset. The findings are documented in a Canva presentation [Link to your Canva presentation].
 
 ## Key Learnings
 
